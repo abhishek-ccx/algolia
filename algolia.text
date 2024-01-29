@@ -1,0 +1,13 @@
+1. Algolia is schemaless.
+2. transmitted data in JSON format.
+3. Four types of attributes : 
+  (i) Searchable
+  (ii) Filtering
+  (iii) Display
+  (iv) Business
+4. searchableAttributes controls 3 things:
+  (i) Attributes you want to search into
+  (ii) Order of these attributes by importance
+  (iii) Order of the words inside an attribute(or not)
+5. Custom ranking metric type can be => numerical / boolean
+6. Custom ranking can be => raw value / computed value
