@@ -30,10 +30,10 @@ const index = client.initIndex("T02_push");
 //   customRanking: ["desc(isFeatured)", "desc(endorsements)"],
 // });
 
-index.search("").then((result) => {
-  console.log(result.nbHits);
+// index.search("").then((result) => {
+//   console.log(result.nbHits);
 
-  for (const hit of result.hits) {
-    console.log(hit);
-  }
-});
+//   for (const hit of result.hits) {
+//     console.log(hit);
+//   }
+// });

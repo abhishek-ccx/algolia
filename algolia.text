@@ -11,3 +11,6 @@
   (iii) Order of the words inside an attribute(or not)
 5. Custom ranking metric type can be => numerical / boolean
 6. Custom ranking can be => raw value / computed value
+7. Textual and Business relevance => LESS TYPOS = BETTER
+8. Other relevance features offer by algolia is => Synonyms, Rules and the Visual Editor, Query Re-ranking, Personalization etc
+9. There are 8 criteria of relevance => Typo, Geo, Words, Filter, Proximity, Attribute, Exact, Custom
